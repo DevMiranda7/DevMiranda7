@@ -9,7 +9,7 @@
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiranda7&show_icons=true&theme=dracula&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiranda7&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## Stacks
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
