@@ -12,18 +12,48 @@
 ## Stacks
 
 <div style="display: inline_block"><br/>
-   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+      <img align="left" 
+         alt="Java"
+         width="60px"
+         style="padding-right: 20px";
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+      <img align="left"
+         alt="Spring"
+         width="60px"
+         style="padding-right: 20px";
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+      <img align="left"
+         alt="react"
+         width="60px"
+         style="padding-right: 20px";
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img align="left"
+         alt="postgresql"
+         width="60px"
+         style="padding-right: 20px";
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+      <img align="left"
+         alt="mysql"
+         width="60px"
+         style="padding-right: 20px";
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      <img align="left"
+         alt="docker"
+         width="60px"
+         style="padding-right: 20px";
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+      <img align="left"
+         alt="aws"
+         width="60px"
+         style="padding-right: 20px"; 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
-
+<br/> 
+<br/> 
+<br/>
 
 #### Sempre buscando mais conhecimento! 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMiranda7/DevMiranda7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevMiranda7/DevMiranda7/output/github-contribution-grid-snake.svg">
