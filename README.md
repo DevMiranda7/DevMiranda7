@@ -9,7 +9,7 @@
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiranda7&show_icons=true&theme=dracula&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiranda7&layout=compact)
 
-## Technologies
+## Tech Stack
 
 <div style="display: inline_block"><br/>
       <img align="left" 
