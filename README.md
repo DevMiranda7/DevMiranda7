@@ -53,7 +53,7 @@
 <br/> 
 <br/>
 
-#### Sempre buscando mais conhecimento! 
+### Sempre buscando mais conhecimento! 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMiranda7/DevMiranda7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevMiranda7/DevMiranda7/output/github-contribution-grid-snake.svg">
