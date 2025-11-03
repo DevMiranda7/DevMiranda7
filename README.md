@@ -4,7 +4,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanmirandadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miranda.of7/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luandevfreitas7@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luandevfreitas7@gmail.com)
+
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiranda7&show_icons=true&theme=dracula&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiranda7&layout=compact)
